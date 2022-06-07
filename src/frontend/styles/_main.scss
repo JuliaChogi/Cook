@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Gilroy', sans-serif;
+}
+
+html,
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #403C3B;
+    overflow-x: hidden;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #403C3B;
+}
+
+a {
+    text-decoration: none;
+    color: #CFCFCF;
+
+}
+
+hr {
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
